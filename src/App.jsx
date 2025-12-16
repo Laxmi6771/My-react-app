@@ -1,9 +1,9 @@
-import MainPage from './MainPage';
+import FirstComponent from './FirstComponent';
 
 function App() {
   return (
     <div>
-      <MainPage />
+      <FirstComponent />
     </div>
   );
 }
